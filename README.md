@@ -1,5 +1,5 @@
 # tic-tac-toe-bot-in-bash
-bash tic tac toe that translates the code from perl's bot
+Bash's tic tac toe code that translates the code from perl's bot:
 
 I got inspiration from http://curtisquarterly.blogspot.com/2005/04/writing-tic-tac-toe-bot-in-perl.html
 
