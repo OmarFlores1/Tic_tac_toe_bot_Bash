@@ -16,7 +16,7 @@ The challenges I faces are briefly summarized below:
 grep { /$piece/ && /$move/ && /\d${piece}?\d/ } @wins would at the same time filter @wins and alter it.
 - place the returns in the appropriate places and to clear the variables used for accumulation.
 
-Note: You can use cygwin64 to run this script in windows.  However, DO NOT copy and paste the script, as windows introduces \r characters.  Rather, rename the script from tttbot_blog.doc to tttbot_blog.sh or tttbot_blog and run it in bash.
+Note: You can use cygwin64 to run this script in windows.  For some reason, if you download this script by itself some markup language appears on it.  The best way is to Download the project as zip: Clone or Download | Download zip.  That way you get the plain sh file.
 
 To-do:
 The performance of the bash program is slow.  Please wait for up to 15 seconds in the second player's move and 10 or less for
